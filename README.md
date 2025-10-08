@@ -3,4 +3,4 @@ There are 17 lectures and 5 assignments.Record my notes and assignments for each
 
 Lecture 1: BPEtokenizer
 
-Lecture 2: Resourse accounting
+Lecture 2: Resource Accounting
